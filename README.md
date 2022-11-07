@@ -6,7 +6,7 @@ The composition-phase diagram using proposed approach are shown below for both s
 
 ### Co-Ni-Ta composition-phase diagram
 <p align="center">
-  <img src="CoNiTa-hc-th01-to12-diff_pos-31250-distance-average" width="600">
+  <img src="CoNiTa-hc-th01-to12-diff_pos-31250-distance-average.png" width="600">
 </p>
 
 ### Co-Ti-Ta composition-phase diagram
