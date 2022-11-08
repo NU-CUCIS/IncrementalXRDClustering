@@ -18,9 +18,11 @@ The composition-phase diagram using proposed approach are shown below for both s
 
 The code was developed by Dipendra Jha from the <a href="http://cucis.ece.northwestern.edu/">CUCIS</a> group at the Electrical and Computer Engineering Department, and K. V. L. V. Narayanachari from the <a href="http://bedzyk.mccormick.northwestern.edu">Bedzyk Research group</a> at the Department of Materials Science and Engineering at Northwestern University.
 
-## Conference Presentations
+## Citation
 
-This work was presented at the International Workshop on Domain-Driven Data Mining (DDDM) as a part of the SIAM International Conference on Data Mining (SDM'2021). The paper is going to be available on arXiv soon.
+This work was presented at the International Workshop on Domain-Driven Data Mining (DDDM) as a part of the SIAM International Conference on Data Mining (SDM'2021). Please cite the following if you use this work:
+
+1. Dipendra Jha, K. V. L. V. Narayanachari, Ruifeng Zhang, Justin Liao, Denis T. Keane, Wei Keng Liao, Alok Choudhary, Yip Wah Chung, Michael J. Bedzyk, and Ankit Agrawal. "An Incremental Phase Mapping Approach for X-ray Diffraction Patterns using Binary Peak Representations." arXiv, 2022. [<a href="[https://arxiv.org/submit/4587364/view]">PDF</a>].
 
 ## Questions/Comments
 
