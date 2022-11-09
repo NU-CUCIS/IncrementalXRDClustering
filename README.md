@@ -22,7 +22,7 @@ The code was developed by Dipendra Jha from the <a href="http://cucis.ece.northw
 
 This work was presented at the International Workshop on Domain-Driven Data Mining (DDDM) as a part of the SIAM International Conference on Data Mining (SDM'2021). Please cite the following if you use this work:
 
-1. Dipendra Jha, K. V. L. V. Narayanachari, Ruifeng Zhang, Justin Liao, Denis T. Keane, Wei Keng Liao, Alok Choudhary, Yip Wah Chung, Michael J. Bedzyk, and Ankit Agrawal. "An Incremental Phase Mapping Approach for X-ray Diffraction Patterns using Binary Peak Representations." arXiv, 2022. [<a href="https://arxiv.org/submit/4587364/view">PDF</a>].
+1. Dipendra Jha, K. V. L. V. Narayanachari, Ruifeng Zhang, Justin Liao, Denis T. Keane, Wei Keng Liao, Alok Choudhary, Yip Wah Chung, Michael J. Bedzyk, and Ankit Agrawal. "An Incremental Phase Mapping Approach for X-ray Diffraction Patterns using Binary Peak Representations." arXiv, 2022. [<a href="https://arxiv.org/pdf/2211.04011.pdf">[PDF]</a>].
 
 ## Questions/Comments
 
